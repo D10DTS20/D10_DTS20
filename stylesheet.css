@@ -163,6 +163,10 @@ header {
   position: relative;
 }
 
+.lesson-icon img{
+    width: 150px;
+    height: 150px;
+}
 .lesson-icon p {
   position: absolute;
   top: 44%;
